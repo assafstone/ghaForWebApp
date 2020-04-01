@@ -2,6 +2,6 @@
 # GitHub Actions test
 ## Building a sample web app with GHA
 
-Workflow currently includes:
+## Workflow currently includes:
 - building
 - testing with XUnit (using Moq for mocks)
