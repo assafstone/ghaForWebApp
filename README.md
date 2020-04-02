@@ -5,3 +5,5 @@
 ## Workflow currently includes:
 - building
 - testing with XUnit (using Moq for mocks)
+
+A meaningless change
